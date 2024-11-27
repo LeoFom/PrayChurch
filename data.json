@@ -1,0 +1,28 @@
+{
+    "data": [
+      { "time": "0:00", "lastName1": "Smith", "lastName2": "Johnson" },
+      { "time": "1:00", "lastName1": null, "lastName2": "Williams" },
+      { "time": "2:00", "lastName1": "Brown", "lastName2": null },
+      { "time": "3:00", "lastName1": null, "lastName2": null },
+      { "time": "4:00", "lastName1": null, "lastName2": null },
+      { "time": "5:00", "lastName1": null, "lastName2": null },
+      { "time": "6:00", "lastName1": null, "lastName2": null },
+      { "time": "7:00", "lastName1": null, "lastName2": null },
+      { "time": "8:00", "lastName1": null, "lastName2": null },
+      { "time": "9:00", "lastName1": null, "lastName2": null },
+      { "time": "10:00", "lastName1": null, "lastName2": null },
+      { "time": "11:00", "lastName1": null, "lastName2": null },
+      { "time": "12:00", "lastName1": null, "lastName2": null },
+      { "time": "13:00", "lastName1": null, "lastName2": null },
+      { "time": "14:00", "lastName1": null, "lastName2": null },
+      { "time": "15:00", "lastName1": null, "lastName2": null },
+      { "time": "16:00", "lastName1": null, "lastName2": null },
+      { "time": "17:00", "lastName1": null, "lastName2": null },
+      { "time": "18:00", "lastName1": null, "lastName2": null },
+      { "time": "19:00", "lastName1": null, "lastName2": null },
+      { "time": "20:00", "lastName1": null, "lastName2": null },
+      { "time": "21:00", "lastName1": null, "lastName2": null },
+      { "time": "22:00", "lastName1": null, "lastName2": null },
+      { "time": "23:00", "lastName1": null, "lastName2": null }
+    ]
+  }
