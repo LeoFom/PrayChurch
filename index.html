@@ -1,18 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Time Selection</title>
+  <title>Время для молитвы</title>
   <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
   <div class="container">
+    <div style="display: grid; gap: 10px; padding-top: 10px;">
+      <div>1. Напишите ваше имя и фамилию</div>
+      <div>2. Нажмите на одну ячейку из таблицы</div>
+      <div>3. Нажмите на кнопку чтобы внести изменения</div>
+    </div>
     <div style="padding: 30px 0;" class="controls">
-        <label for="lastName">Введите имя и фамилию:</label>
-        <input type="text" id="lastName" placeholder="Имя Фамилия">
-        <button id="submitBtn">Нажмите, чтобы внести изменения</button>
-      </div>
+      <label for="lastName">Введите имя и фамилию:</label>
+      <input type="text" id="lastName" placeholder="Имя Фамилия">
+      <button id="submitBtn">Нажмите, чтобы внести изменения</button>
+    </div>
     <table id="schedule">
       <thead>
         <tr>
@@ -28,4 +35,5 @@
   </div>
   <script src="script.js"></script>
 </body>
+
 </html>
